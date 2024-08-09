@@ -28,7 +28,7 @@ textgrid (Install textgrid from https://github.com/kylebgorman/textgrid)
 TRILL vectors model (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
 ## Execution instruction
-Four Jupyter Notebook files are uploaded. Each file presents a step-by-step procedure for extracting features and measuring entrainment at different linguistic levels. 
+Four Jupyter Notebook files are uploaded. Each file presents a step-by-step procedure for extracting features and measuring entrainment at different linguistic levels in different languages. 
 
 ## Citation
-J. Kejriwal and Š. Beňuš, "Lexical, syntactic, semantic and acoustic entrainment in Slovak, Spanish, English, and Hungarian: A cross-linguistic comparison," (2024). Submitted to Speech Communication Journal (decision is major revision). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729223
+J. Kejriwal and Š. Beňuš, "Lexical, syntactic, semantic and acoustic entrainment in Slovak, Spanish, English, and Hungarian: A cross-linguistic comparison," (2024). Submitted to Speech Communication Journal (the decision is a major revision). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729223
