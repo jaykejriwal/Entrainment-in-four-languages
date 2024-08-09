@@ -1,0 +1,1634 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 443.6364375 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "SPK1" 
+        xmin = 0 
+        xmax = 443.6364375 
+        intervals: size = 199 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.395 
+            text = "majom, rum, malom," 
+        intervals [2]:
+            xmin = 3.395 
+            xmax = 5.02 
+            text = "limonádé," 
+        intervals [3]:
+            xmin = 5.02 
+            xmax = 9.25 
+            text = "majom, na várjál, akkor ez most egy lila majom, meg egy sárga majom, gondolom." 
+        intervals [4]:
+            xmin = 9.25 
+            xmax = 10.82 
+            text = "" 
+        intervals [5]:
+            xmin = 10.82 
+            xmax = 12.33 
+            text = "narancssárga majom," 
+        intervals [6]:
+            xmin = 12.33 
+            xmax = 12.99 
+            text = "" 
+        intervals [7]:
+            xmin = 12.99 
+            xmax = 15.7 
+            text = "hú, hát ez, várj, ez jojó, vagy ez mi?" 
+        intervals [8]:
+            xmin = 15.7 
+            xmax = 16.78 
+            text = "" 
+        intervals [9]:
+            xmin = 16.78 
+            xmax = 18.29 
+            text = "jojó, teve." 
+        intervals [10]:
+            xmin = 18.29 
+            xmax = 21.401043174580195 
+            text = "" 
+        intervals [11]:
+            xmin = 21.401043174580195 
+            xmax = 22.103489613491604 
+            text = "<hes>" 
+        intervals [12]:
+            xmin = 22.103489613491604 
+            xmax = 22.384999999999998 
+            text = "" 
+        intervals [13]:
+            xmin = 22.384999999999998 
+            xmax = 23.505 
+            text = "micsoda?" 
+        intervals [14]:
+            xmin = 23.505 
+            xmax = 24.560000000000002 
+            text = "láma?" 
+        intervals [15]:
+            xmin = 24.560000000000002 
+            xmax = 29.229999999999997 
+            text = "" 
+        intervals [16]:
+            xmin = 29.229999999999997 
+            xmax = 32.67456777998277 
+            text = "<laugh> ez igaz </laugh>" 
+        intervals [17]:
+            xmin = 32.67456777998277 
+            xmax = 45.14 
+            text = "" 
+        intervals [18]:
+            xmin = 45.14 
+            xmax = 46.312357485761076 
+            text = "na nézzük." 
+        intervals [19]:
+            xmin = 46.312357485761076 
+            xmax = 48.620000000000005 
+            text = "" 
+        intervals [20]:
+            xmin = 48.620000000000005 
+            xmax = 49.58 
+            text = "villogjál!" 
+        intervals [21]:
+            xmin = 49.58 
+            xmax = 51.05952579838287 
+            text = "" 
+        intervals [22]:
+            xmin = 51.05952579838287 
+            xmax = 51.44 
+            text = "na!" 
+        intervals [23]:
+            xmin = 51.44 
+            xmax = 52.55 
+            text = "most már villog." 
+        intervals [24]:
+            xmin = 52.55 
+            xmax = 55.53 
+            text = "<hes> igen, a malmot kell majd" 
+        intervals [25]:
+            xmin = 55.53 
+            xmax = 56.69 
+            text = "elpakolni," 
+        intervals [26]:
+            xmin = 56.69 
+            xmax = 57.76 
+            text = "" 
+        intervals [27]:
+            xmin = 57.76 
+            xmax = 59.89 
+            text = "méghozzá a jojó mellé," 
+        intervals [28]:
+            xmin = 59.89 
+            xmax = 61.6 
+            text = "jojó jobb oldalára," 
+        intervals [29]:
+            xmin = 61.6 
+            xmax = 62.83 
+            text = "" 
+        intervals [30]:
+            xmin = 62.83 
+            xmax = 64.2 
+            text = "úgy, hogy" 
+        intervals [31]:
+            xmin = 64.2 
+            xmax = 65.85 
+            text = "a kettő" 
+        intervals [32]:
+            xmin = 65.85 
+            xmax = 70.83000000000001 
+            text = "nemhogy érintkezik, de még a malom egy nagyon picit fedi is a, a jojó képét." 
+        intervals [33]:
+            xmin = 70.83000000000001 
+            xmax = 71.65 
+            text = "" 
+        intervals [34]:
+            xmin = 71.65 
+            xmax = 74.19 
+            text = "e-- csak egy nagyon picit éppenhogycsak," 
+        intervals [35]:
+            xmin = 74.19 
+            xmax = 76.46373690456674 
+            text = "<hes> de lejjebb van," 
+        intervals [36]:
+            xmin = 76.46373690456674 
+            xmax = 77.78999999999999 
+            text = "" 
+        intervals [37]:
+            xmin = 77.78999999999999 
+            xmax = 79.06 
+            text = "mint a jojó," 
+        intervals [38]:
+            xmin = 79.06 
+            xmax = 82.09 
+            text = "<hes> a közepénél egy picit lejjebb." 
+        intervals [39]:
+            xmin = 82.09 
+            xmax = 84.16 
+            text = "" 
+        intervals [40]:
+            xmin = 84.16 
+            xmax = 86.305 
+            text = "igen. tehát hogy a-- a" 
+        intervals [41]:
+            xmin = 86.305 
+            xmax = 92.44 
+            text = "jojónak a jobboldala és a malom baloldala egy nagyon-nagyon picit fedésben van," 
+        intervals [42]:
+            xmin = 92.44 
+            xmax = 93.72 
+            text = "éppenhogy ,csak" 
+        intervals [43]:
+            xmin = 93.72 
+            xmax = 96.72 
+            text = "" 
+        intervals [44]:
+            xmin = 96.72 
+            xmax = 100.63 
+            text = "tehát a jojó képének, nem magának ennek a nagy fehér képnek," 
+        intervals [45]:
+            xmin = 100.63 
+            xmax = 104.03 
+            text = "a jobb oldala és a malom képnek a baloldala," 
+        intervals [46]:
+            xmin = 104.03 
+            xmax = 107 
+            text = "az egy nagyon picit fedésben van egymással," 
+        intervals [47]:
+            xmin = 107 
+            xmax = 111.1 
+            text = "és a malom, az a felénél egy kicsit lejjebb van." 
+        intervals [48]:
+            xmin = 111.1 
+            xmax = 112.03999999999999 
+            text = "" 
+        intervals [49]:
+            xmin = 112.03999999999999 
+            xmax = 114.6 
+            text = "ott vannak itt ilyen mindenféle vonalkák," 
+        intervals [50]:
+            xmin = 114.6 
+            xmax = 116.28 
+            text = "és a a" 
+        intervals [51]:
+            xmin = 116.28 
+            xmax = 119.06 
+            text = "látod? hogy van négy vonal összesen." 
+        intervals [52]:
+            xmin = 119.06 
+            xmax = 121.165 
+            text = "igen, van négy vonal összesen," 
+        intervals [53]:
+            xmin = 121.165 
+            xmax = 130.445 
+            text = "na várjál, inkább úgy mondom, hogy a a malom képnek a teteje, az nagyjából magá-- az a jojón az a kör, tehát annak a a tetejénél van." 
+        intervals [54]:
+            xmin = 130.445 
+            xmax = 132.04500000000002 
+            text = "tehát nagyjából a" 
+        intervals [55]:
+            xmin = 132.04500000000002 
+            xmax = 136.1 
+            text = "a kép teteje és a jojó teteje, az az egy vonal." 
+        intervals [56]:
+            xmin = 136.1 
+            xmax = 138.41 
+            text = "" 
+        intervals [57]:
+            xmin = 138.41 
+            xmax = 142.615 
+            text = "mármint a malom képnek a legteteje, ennek a négyzetnek a teteje" 
+        intervals [58]:
+            xmin = 142.615 
+            xmax = 144.275 
+            text = "és a jojónak a" 
+        intervals [59]:
+            xmin = 144.275 
+            xmax = 145.54 
+            text = "magának a" 
+        intervals [60]:
+            xmin = 145.54 
+            xmax = 148.42000000000002 
+            text = "körnek, annak a kis karikának a teteje," 
+        intervals [61]:
+            xmin = 148.42000000000002 
+            xmax = 149.825 
+            text = "az egy vonal--" 
+        intervals [62]:
+            xmin = 149.825 
+            xmax = 150.8 
+            text = "--ban van." 
+        intervals [63]:
+            xmin = 150.8 
+            xmax = 151.61 
+            text = "" 
+        intervals [64]:
+            xmin = 151.61 
+            xmax = 152.53 
+            text = "kábé így." 
+        intervals [65]:
+            xmin = 152.53 
+            xmax = 154.16 
+            text = "" 
+        intervals [66]:
+            xmin = 154.16 
+            xmax = 154.81 
+            text = "kész?" 
+        intervals [67]:
+            xmin = 154.81 
+            xmax = 158.14 
+            text = "" 
+        intervals [68]:
+            xmin = 158.14 
+            xmax = 158.86 
+            text = "na." 
+        intervals [69]:
+            xmin = 158.86 
+            xmax = 160.09 
+            text = "kilencvennyolc." 
+        intervals [70]:
+            xmin = 160.09 
+            xmax = 164.5 
+            text = "" 
+        intervals [71]:
+            xmin = 164.5 
+            xmax = 166.25 
+            text = "ja, most megint én jövök, igaz?" 
+        intervals [72]:
+            xmin = 166.25 
+            xmax = 167.8 
+            text = "" 
+        intervals [73]:
+            xmin = 167.8 
+            xmax = 168.9 
+            text = "igen, tovább." 
+        intervals [74]:
+            xmin = 168.9 
+            xmax = 173.56 
+            text = "" 
+        intervals [75]:
+            xmin = 173.56 
+            xmax = 175.14499999999998 
+            text = "na, villogjál." 
+        intervals [76]:
+            xmin = 175.14499999999998 
+            xmax = 176.58499999999998 
+            text = "na, villog." 
+        intervals [77]:
+            xmin = 176.58499999999998 
+            xmax = 178.07999999999998 
+            text = "a láma villog." 
+        intervals [78]:
+            xmin = 178.07999999999998 
+            xmax = 179.79 
+            text = "" 
+        intervals [79]:
+            xmin = 179.79 
+            xmax = 181.095 
+            text = "a láma, az a" 
+        intervals [80]:
+            xmin = 181.095 
+            xmax = 184.34 
+            text = "lila majom és a narancssárga majom között van." 
+        intervals [81]:
+            xmin = 184.34 
+            xmax = 184.96 
+            text = "" 
+        intervals [82]:
+            xmin = 184.96 
+            xmax = 185.73000000000002 
+            text = "a" 
+        intervals [83]:
+            xmin = 185.73000000000002 
+            xmax = 188.24 
+            text = "következésképp a limonádétól balra." 
+        intervals [84]:
+            xmin = 188.24 
+            xmax = 189.54 
+            text = "" 
+        intervals [85]:
+            xmin = 189.54 
+            xmax = 192.81 
+            text = "méghozzá úgy, hogy a narancssárga majom" 
+        intervals [86]:
+            xmin = 192.81 
+            xmax = 198.45 
+            text = "és a láma kép érintkezik egymással, de a narancssárga majom feje tetején villog a láma." 
+        intervals [87]:
+            xmin = 198.45 
+            xmax = 200.36 
+            text = "" 
+        intervals [88]:
+            xmin = 200.36 
+            xmax = 202.4 
+            text = "úgy, hogy <hes>" 
+        intervals [89]:
+            xmin = 202.4 
+            xmax = 203.23000000000002 
+            text = "a" 
+        intervals [90]:
+            xmin = 203.23000000000002 
+            xmax = 209.24 
+            text = "a lámának a jobb széle <hes> van a majom fejénél, hát hogy most hol. na várjál!" 
+        intervals [91]:
+            xmin = 209.24 
+            xmax = 211.01294786445345 
+            text = "" 
+        intervals [92]:
+            xmin = 211.01294786445345 
+            xmax = 215.78 
+            text = "tehát a igen, hát i-- igen, mondjuk ez logikus, hogy a jobb széle, mert a bal széle nem lehetne," 
+        intervals [93]:
+            xmin = 215.78 
+            xmax = 216.95499999999998 
+            text = "<hes> igen." 
+        intervals [94]:
+            xmin = 216.95499999999998 
+            xmax = 218.12 
+            text = "<hes>" 
+        intervals [95]:
+            xmin = 218.12 
+            xmax = 219.93 
+            text = "hát, várjál!" 
+        intervals [96]:
+            xmin = 219.93 
+            xmax = 221.15 
+            text = "tehát a" 
+        intervals [97]:
+            xmin = 221.15 
+            xmax = 223.12 
+            text = "" 
+        intervals [98]:
+            xmin = 223.12 
+            xmax = 227.98000000000002 
+            text = "aha, szeméhez képest? hát igen, nagyjából a két szeme között, mondjuk, olyasmi" 
+        intervals [99]:
+            xmin = 227.98000000000002 
+            xmax = 229.76 
+            text = "a széle, igen." 
+        intervals [100]:
+            xmin = 229.76 
+            xmax = 230.51 
+            text = "" 
+        intervals [101]:
+            xmin = 230.51 
+            xmax = 233.01999999999998 
+            text = "hát igen, de úgy kábé ez a vonal." 
+        intervals [102]:
+            xmin = 233.01999999999998 
+            xmax = 234.47 
+            text = "" 
+        intervals [103]:
+            xmin = 234.47 
+            xmax = 237.56 
+            text = "szóval úgy ha ott azt a csíkot belövöd, az jó." 
+        intervals [104]:
+            xmin = 237.56 
+            xmax = 239.65 
+            text = "" 
+        intervals [105]:
+            xmin = 239.65 
+            xmax = 242.55 
+            text = "van van még valami kérdés? vagy ez így egyértelmű?" 
+        intervals [106]:
+            xmin = 242.55 
+            xmax = 246.56 
+            text = "" 
+        intervals [107]:
+            xmin = 246.56 
+            xmax = 249.32 
+            text = "tehát a fejével gyakorlatilag érintkezik," 
+        intervals [108]:
+            xmin = 249.32 
+            xmax = 250.78 
+            text = "" 
+        intervals [109]:
+            xmin = 250.78 
+            xmax = 253.19864567303463 
+            text = "igen, de, úgyhogy, igen, szóval úgy pont." 
+        intervals [110]:
+            xmin = 253.19864567303463 
+            xmax = 253.41 
+            text = "" 
+        intervals [111]:
+            xmin = 253.41 
+            xmax = 256.09 
+            text = "nem fedik egymást, csak úgy érintkeznek," 
+        intervals [112]:
+            xmin = 256.09 
+            xmax = 259.51 
+            text = "és mondom, hogy a széle, az í-- nagyjából a két szeme között van." 
+        intervals [113]:
+            xmin = 259.51 
+            xmax = 260.88 
+            text = "" 
+        intervals [114]:
+            xmin = 260.88 
+            xmax = 262.21000000000004 
+            text = "akkor legyen kész." 
+        intervals [115]:
+            xmin = 262.21000000000004 
+            xmax = 268.29999999999995 
+            text = "" 
+        intervals [116]:
+            xmin = 268.29999999999995 
+            xmax = 269.245 
+            text = "jó." 
+        intervals [117]:
+            xmin = 269.245 
+            xmax = 271.04999999999995 
+            text = "valahány pontot kaptunk." 
+        intervals [118]:
+            xmin = 271.04999999999995 
+            xmax = 272.25 
+            text = "" 
+        intervals [119]:
+            xmin = 272.25 
+            xmax = 272.82000000000005 
+            text = "jó <laugh>" 
+        intervals [120]:
+            xmin = 272.82000000000005 
+            xmax = 274.7642643623729 
+            text = "<laugh> én vagyok a pénztáros </laugh>," 
+        intervals [121]:
+            xmin = 274.7642643623729 
+            xmax = 275.6595938957631 
+            text = "<laugh> te a könyvelő </laugh>," 
+        intervals [122]:
+            xmin = 275.6595938957631 
+            xmax = 276.57000000000005 
+            text = "<laugh> te nyertél." 
+        intervals [123]:
+            xmin = 276.57000000000005 
+            xmax = 279.3445400390041 
+            text = "" 
+        intervals [124]:
+            xmin = 279.3445400390041 
+            xmax = 281.3287080446702 
+            text = "<laugh>" 
+        intervals [125]:
+            xmin = 281.3287080446702 
+            xmax = 285.5 
+            text = "" 
+        intervals [126]:
+            xmin = 285.5 
+            xmax = 289.35 
+            text = "a rum, a rum villog, Máté, <laugh> vigyázzunk </laugh>!" 
+        intervals [127]:
+            xmin = 289.35 
+            xmax = 290.95000000000005 
+            text = "" 
+        intervals [128]:
+            xmin = 290.95000000000005 
+            xmax = 292.325 
+            text = "<laugh> nem." 
+        intervals [129]:
+            xmin = 292.325 
+            xmax = 294.69 
+            text = "képzeld el, a malomnak a tetején van." 
+        intervals [130]:
+            xmin = 294.69 
+            xmax = 295.78999999999996 
+            text = "" 
+        intervals [131]:
+            xmin = 295.78999999999996 
+            xmax = 300.3 
+            text = "mármint a <interr> nem, a közvetlen a marom [majom] majom faj-- farkánál van." 
+        intervals [132]:
+            xmin = 300.3 
+            xmax = 302.85 
+            text = "a <interr> mármint a lila majom farkánál, igen." 
+        intervals [133]:
+            xmin = 302.85 
+            xmax = 304.7848643181311 
+            text = "" 
+        intervals [134]:
+            xmin = 304.7848643181311 
+            xmax = 308.445 
+            text = "jó, tehát a, gyakorlatilag a malom tetején áll," 
+        intervals [135]:
+            xmin = 308.445 
+            xmax = 313.33000000000004 
+            text = "úgy, hogy a rum-- --nak a széle érintkezik a lila majom farkával." 
+        intervals [136]:
+            xmin = 313.33000000000004 
+            xmax = 314.33000000000004 
+            text = "" 
+        intervals [137]:
+            xmin = 314.33000000000004 
+            xmax = 315.31 
+            text = "<hes>" 
+        intervals [138]:
+            xmin = 315.31 
+            xmax = 319.86 
+            text = "egy egy egy nagyon picit <hes> hát, nincs átfedésben, csak hogy" 
+        intervals [139]:
+            xmin = 319.86 
+            xmax = 324.71 
+            text = "hogy <hes>, tehát a rumot egy picikét told úgy a lila majom <hes>" 
+        intervals [140]:
+            xmin = 324.71 
+            xmax = 328.07 
+            text = "felé, hogy, hogy úgy a farkával" 
+        intervals [141]:
+            xmin = 328.07 
+            xmax = 333.315 
+            text = "kicsit, tehát hogy hosszan éri-- nem hosszan, csak csak egy picit hosszabban, mint a" 
+        intervals [142]:
+            xmin = 333.315 
+            xmax = 335.29999999999995 
+            text = "összeérés tehát hogy." 
+        intervals [143]:
+            xmin = 335.29999999999995 
+            xmax = 338.45000000000005 
+            text = "" 
+        intervals [144]:
+            xmin = 338.45000000000005 
+            xmax = 340.42 
+            text = "hát, rá nem megy, de" 
+        intervals [145]:
+            xmin = 340.42 
+            xmax = 341.51 
+            text = "de úgy" 
+        intervals [146]:
+            xmin = 341.51 
+            xmax = 343.23 
+            text = "úgy rendesen érintkezik." 
+        intervals [147]:
+            xmin = 343.23 
+            xmax = 345.57000000000005 
+            text = "" 
+        intervals [148]:
+            xmin = 345.57000000000005 
+            xmax = 347.565 
+            text = "szóval nem éppenhogy csak, hanem" 
+        intervals [149]:
+            xmin = 347.565 
+            xmax = 348.37 
+            text = "hanem" 
+        intervals [150]:
+            xmin = 348.37 
+            xmax = 350.38 
+            text = "" 
+        intervals [151]:
+            xmin = 350.38 
+            xmax = 351.53499999999997 
+            text = "nem megy bele." 
+        intervals [152]:
+            xmin = 351.53499999999997 
+            xmax = 352.53999999999996 
+            text = "rajta van." 
+        intervals [153]:
+            xmin = 352.53999999999996 
+            xmax = 354.75 
+            text = "" 
+        intervals [154]:
+            xmin = 354.75 
+            xmax = 355.38 
+            text = "jó." 
+        intervals [155]:
+            xmin = 355.38 
+            xmax = 358.4499790480595 
+            text = "" 
+        intervals [156]:
+            xmin = 358.4499790480595 
+            xmax = 359.13609321824316 
+            text = "<laugh>" 
+        intervals [157]:
+            xmin = 359.13609321824316 
+            xmax = 362.38 
+            text = "" 
+        intervals [158]:
+            xmin = 362.38 
+            xmax = 364.37 
+            text = "jó, akkor mehetünk tovább." 
+        intervals [159]:
+            xmin = 364.37 
+            xmax = 367.59000000000003 
+            text = "" 
+        intervals [160]:
+            xmin = 367.59000000000003 
+            xmax = 368.78999999999996 
+            text = "na nézzük." 
+        intervals [161]:
+            xmin = 368.78999999999996 
+            xmax = 369.69 
+            text = "" 
+        intervals [162]:
+            xmin = 369.69 
+            xmax = 370.99 
+            text = "limonádé." 
+        intervals [163]:
+            xmin = 370.99 
+            xmax = 371.56874337719427 
+            text = "" 
+        intervals [164]:
+            xmin = 371.56874337719427 
+            xmax = 372.64427369802263 
+            text = "rum után." 
+        intervals [165]:
+            xmin = 372.64427369802263 
+            xmax = 372.875 
+            text = "" 
+        intervals [166]:
+            xmin = 372.875 
+            xmax = 376.135 
+            text = "<laugh> kell egy kis öblítés </laugh>." 
+        intervals [167]:
+            xmin = 376.135 
+            xmax = 378.22 
+            text = "" 
+        intervals [168]:
+            xmin = 378.22 
+            xmax = 382.86 
+            text = "a rum mellé, csak hogy minden rendben legyen." 
+        intervals [169]:
+            xmin = 382.86 
+            xmax = 384.48 
+            text = "a rum tól jobbra," 
+        intervals [170]:
+            xmin = 384.48 
+            xmax = 386.34000000000003 
+            text = "" 
+        intervals [171]:
+            xmin = 386.34000000000003 
+            xmax = 387.17499999999995 
+            text = "<hes>" 
+        intervals [172]:
+            xmin = 387.17499999999995 
+            xmax = 389.775 
+            text = "érintkezik vele a <interr> maga a kép," 
+        intervals [173]:
+            xmin = 389.775 
+            xmax = 391.90999999999997 
+            text = "<hes> úgy, hogy a" 
+        intervals [174]:
+            xmin = 391.90999999999997 
+            xmax = 393.25 
+            text = "" 
+        intervals [175]:
+            xmin = 393.25 
+            xmax = 395.71 
+            text = "mondjuk, a rum feliratnak," 
+        intervals [176]:
+            xmin = 395.71 
+            xmax = 400.855 
+            text = "nagyjából a tetejénél van a kép, a limonádé képnek az alja." 
+        intervals [177]:
+            xmin = 400.855 
+            xmax = 401.90999999999997 
+            text = "<hum>" 
+        intervals [178]:
+            xmin = 401.90999999999997 
+            xmax = 402.72 
+            text = "" 
+        intervals [179]:
+            xmin = 402.72 
+            xmax = 404.38 
+            text = "tehát úgy kábé a" 
+        intervals [180]:
+            xmin = 404.38 
+            xmax = 406.71500000000003 
+            text = "az j-- a betűk tetejénél." 
+        intervals [181]:
+            xmin = 406.71500000000003 
+            xmax = 408.585 
+            text = "hát most ezt így nagyon" 
+        intervals [182]:
+            xmin = 408.585 
+            xmax = 409.32000000000005 
+            text = "nem tudom." 
+        intervals [183]:
+            xmin = 409.32000000000005 
+            xmax = 410.94 
+            text = "" 
+        intervals [184]:
+            xmin = 410.94 
+            xmax = 414.095 
+            text = "esetleg egy nagyon-nagyon picit lejjebb de, de" 
+        intervals [185]:
+            xmin = 414.095 
+            xmax = 418.88 
+            text = "hát, ezek a nüansznyi dolgok. szóval hogyha odahúzod, szerintem az úgy nagyjából oké." 
+        intervals [186]:
+            xmin = 418.88 
+            xmax = 420.75 
+            text = "" 
+        intervals [187]:
+            xmin = 420.75 
+            xmax = 423.65 
+            text = "jó? tehát érintkezik a rumos üveggel," 
+        intervals [188]:
+            xmin = 423.65 
+            xmax = 425.53 
+            text = "és a <interr> ott az alja." 
+        intervals [189]:
+            xmin = 425.53 
+            xmax = 426.70000000000005 
+            text = "" 
+        intervals [190]:
+            xmin = 426.70000000000005 
+            xmax = 427.31 
+            text = "jó." 
+        intervals [191]:
+            xmin = 427.31 
+            xmax = 431.6066079995297 
+            text = "" 
+        intervals [192]:
+            xmin = 431.6066079995297 
+            xmax = 432.8244573945756 
+            text = "akkor menjünk tovább." 
+        intervals [193]:
+            xmin = 432.8244573945756 
+            xmax = 433.44 
+            text = "" 
+        intervals [194]:
+            xmin = 433.44 
+            xmax = 434.44 
+            text = "<laugh> igen </laugh>." 
+        intervals [195]:
+            xmin = 434.44 
+            xmax = 437.5034811378646 
+            text = "" 
+        intervals [196]:
+            xmin = 437.5034811378646 
+            xmax = 437.9299845409517 
+            text = "<hum>" 
+        intervals [197]:
+            xmin = 437.9299845409517 
+            xmax = 439.88 
+            text = "" 
+        intervals [198]:
+            xmin = 439.88 
+            xmax = 442.56 
+            text = "ja várjál, igen. most le-- túl vagyunk a négyen?" 
+        intervals [199]:
+            xmin = 442.56 
+            xmax = 443.6364375 
+            text = "akkor igen." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "SPK2" 
+        xmin = 0 
+        xmax = 443.6364375 
+        intervals: size = 190 
+        intervals [1]:
+            xmin = 0 
+            xmax = 21.54153246236248 
+            text = "" 
+        intervals [2]:
+            xmin = 21.54153246236248 
+            xmax = 22.279101223219456 
+            text = "láma." 
+        intervals [3]:
+            xmin = 22.279101223219456 
+            xmax = 23.051792306022 
+            text = "" 
+        intervals [4]:
+            xmin = 23.051792306022 
+            xmax = 23.806922227851764 
+            text = "láma." 
+        intervals [5]:
+            xmin = 23.806922227851764 
+            xmax = 24.4742463448176 
+            text = "" 
+        intervals [6]:
+            xmin = 24.4742463448176 
+            xmax = 24.948397691082803 
+            text = "<hum>" 
+        intervals [7]:
+            xmin = 24.948397691082803 
+            xmax = 28.280526446106254 
+            text = "" 
+        intervals [8]:
+            xmin = 28.280526446106254 
+            xmax = 29.117255760150567 
+            text = "hát nincs púpja." 
+        intervals [9]:
+            xmin = 29.117255760150567 
+            xmax = 29.293162795015252 
+            text = "" 
+        intervals [10]:
+            xmin = 29.293162795015252 
+            xmax = 31.54563018783697 
+            text = "Tubi. <laugh>" 
+        intervals [11]:
+            xmin = 31.54563018783697 
+            xmax = 34.55 
+            text = "" 
+        intervals [12]:
+            xmin = 34.55 
+            xmax = 36.445 
+            text = "lám a szeme, lám a szeme" 
+        intervals [13]:
+            xmin = 36.445 
+            xmax = 37.29 
+            text = "sötét." 
+        intervals [14]:
+            xmin = 37.29 
+            xmax = 40.165039446516886 
+            text = "" 
+        intervals [15]:
+            xmin = 40.165039446516886 
+            xmax = 40.73904836501579 
+            text = "ja." 
+        intervals [16]:
+            xmin = 40.73904836501579 
+            xmax = 56.418633776303565 
+            text = "" 
+        intervals [17]:
+            xmin = 56.418633776303565 
+            xmax = 56.97494256293893 
+            text = "igen." 
+        intervals [18]:
+            xmin = 56.97494256293893 
+            xmax = 57.716687611786085 
+            text = "" 
+        intervals [19]:
+            xmin = 57.716687611786085 
+            xmax = 58.23590914597909 
+            text = "és hova?" 
+        intervals [20]:
+            xmin = 58.23590914597909 
+            xmax = 59.7373860530634 
+            text = "" 
+        intervals [21]:
+            xmin = 59.7373860530634 
+            xmax = 60.534761980574096 
+            text = "igen." 
+        intervals [22]:
+            xmin = 60.534761980574096 
+            xmax = 61.480486917854215 
+            text = "" 
+        intervals [23]:
+            xmin = 61.480486917854215 
+            xmax = 62.18514471425901 
+            text = "igen." 
+        intervals [24]:
+            xmin = 62.18514471425901 
+            xmax = 70.83000000000001 
+            text = "" 
+        intervals [25]:
+            xmin = 70.83000000000001 
+            xmax = 71.65 
+            text = "igen." 
+        intervals [26]:
+            xmin = 71.65 
+            xmax = 73.83054198115934 
+            text = "" 
+        intervals [27]:
+            xmin = 73.83054198115934 
+            xmax = 74.47956889890061 
+            text = "igen." 
+        intervals [28]:
+            xmin = 74.47956889890061 
+            xmax = 76.46373690456674 
+            text = "" 
+        intervals [29]:
+            xmin = 76.46373690456674 
+            xmax = 77.78999999999999 
+            text = "mint a jojó?" 
+        intervals [30]:
+            xmin = 77.78999999999999 
+            xmax = 81.86 
+            text = "" 
+        intervals [31]:
+            xmin = 81.86 
+            xmax = 84.58000000000001 
+            text = "mármint hogy a jojó közepénél egy picit lejjebb?" 
+        intervals [32]:
+            xmin = 84.58000000000001 
+            xmax = 87.29265780090401 
+            text = "" 
+        intervals [33]:
+            xmin = 87.29265780090401 
+            xmax = 88.55362438394418 
+            text = "origóján." 
+        intervals [34]:
+            xmin = 88.55362438394418 
+            xmax = 93.69999999999999 
+            text = "" 
+        intervals [35]:
+            xmin = 93.69999999999999 
+            xmax = 95.625 
+            text = "j-- j--jojónak a jobboldal--" 
+        intervals [36]:
+            xmin = 95.625 
+            xmax = 98.47999999999999 
+            text = "de hogy a maga a jojó, vagy a jogjó [jojó] képe?" 
+        intervals [37]:
+            xmin = 98.47999999999999 
+            xmax = 100.40300153927748 
+            text = "" 
+        intervals [38]:
+            xmin = 100.40300153927748 
+            xmax = 100.9963975783552 
+            text = "igen." 
+        intervals [39]:
+            xmin = 100.9963975783552 
+            xmax = 103.74085425908967 
+            text = "" 
+        intervals [40]:
+            xmin = 103.74085425908967 
+            xmax = 104.64949194392744 
+            text = "igen." 
+        intervals [41]:
+            xmin = 104.64949194392744 
+            xmax = 106.46676731360297 
+            text = "" 
+        intervals [42]:
+            xmin = 106.46676731360297 
+            xmax = 107.30123049355602 
+            text = "igen." 
+        intervals [43]:
+            xmin = 107.30123049355602 
+            xmax = 117.46000000000001 
+            text = "" 
+        intervals [44]:
+            xmin = 117.46000000000001 
+            xmax = 119.15 
+            text = "a jojónál, nem?" 
+        intervals [45]:
+            xmin = 119.15 
+            xmax = 120.74480268707951 
+            text = "" 
+        intervals [46]:
+            xmin = 120.74480268707951 
+            xmax = 121.5421786145902 
+            text = "igen." 
+        intervals [47]:
+            xmin = 121.5421786145902 
+            xmax = 137.16 
+            text = "" 
+        intervals [48]:
+            xmin = 137.16 
+            xmax = 139.32999999999998 
+            text = "a kép teteje meg a jojó teteje, igen." 
+        intervals [49]:
+            xmin = 139.32999999999998 
+            xmax = 140.1594225238226 
+            text = "" 
+        intervals [50]:
+            xmin = 140.1594225238226 
+            xmax = 141.10514746110272 
+            text = "igen." 
+        intervals [51]:
+            xmin = 141.10514746110272 
+            xmax = 142.31048316547935 
+            text = "" 
+        intervals [52]:
+            xmin = 142.31048316547935 
+            xmax = 143.10785909299003 
+            text = "jó." 
+        intervals [53]:
+            xmin = 143.10785909299003 
+            xmax = 145.6112486328492 
+            text = "" 
+        intervals [54]:
+            xmin = 145.6112486328492 
+            xmax = 146.00066478349393 
+            text = "<hum>" 
+        intervals [55]:
+            xmin = 146.00066478349393 
+            xmax = 146.5755171963505 
+            text = "" 
+        intervals [56]:
+            xmin = 146.5755171963505 
+            xmax = 146.98347697321643 
+            text = "<hum>" 
+        intervals [57]:
+            xmin = 146.98347697321643 
+            xmax = 150.65511496500983 
+            text = "" 
+        intervals [58]:
+            xmin = 150.65511496500983 
+            xmax = 151.15579287298166 
+            text = "<hum>" 
+        intervals [59]:
+            xmin = 151.15579287298166 
+            xmax = 152.6207393444548 
+            text = "" 
+        intervals [60]:
+            xmin = 152.6207393444548 
+            xmax = 153.10287362620545 
+            text = "jó." 
+        intervals [61]:
+            xmin = 153.10287362620545 
+            xmax = 154.77179998611155 
+            text = "" 
+        intervals [62]:
+            xmin = 154.77179998611155 
+            xmax = 155.27247789408338 
+            text = "igen." 
+        intervals [63]:
+            xmin = 155.27247789408338 
+            xmax = 156.53288766029235 
+            text = "" 
+        intervals [64]:
+            xmin = 156.53288766029235 
+            xmax = 157.51569985001484 
+            text = "akkor nyomom." 
+        intervals [65]:
+            xmin = 157.51569985001484 
+            xmax = 160.81 
+            text = "" 
+        intervals [66]:
+            xmin = 160.81 
+            xmax = 161.62 
+            text = "nem rossz." 
+        intervals [67]:
+            xmin = 161.62 
+            xmax = 163.338398483465 
+            text = "" 
+        intervals [68]:
+            xmin = 163.338398483465 
+            xmax = 165.21 
+            text = "az a kérdés hogy mennyi kell, hogy" 
+        intervals [69]:
+            xmin = 165.21 
+            xmax = 166.38 
+            text = "" 
+        intervals [70]:
+            xmin = 166.38 
+            xmax = 167.22500000000002 
+            text = "nem tudom." 
+        intervals [71]:
+            xmin = 167.22500000000002 
+            xmax = 167.95 
+            text = "tovább?" 
+        intervals [72]:
+            xmin = 167.95 
+            xmax = 178.080024512471 
+            text = "" 
+        intervals [73]:
+            xmin = 178.080024512471 
+            xmax = 178.89594406620287 
+            text = "igen." 
+        intervals [74]:
+            xmin = 178.89594406620287 
+            xmax = 184.12524666057533 
+            text = "" 
+        intervals [75]:
+            xmin = 184.12524666057533 
+            xmax = 184.81136083075893 
+            text = "igen." 
+        intervals [76]:
+            xmin = 184.81136083075893 
+            xmax = 188.0935826719076 
+            text = "" 
+        intervals [77]:
+            xmin = 188.0935826719076 
+            xmax = 188.77969684209123 
+            text = "igen." 
+        intervals [78]:
+            xmin = 188.77969684209123 
+            xmax = 198.55 
+            text = "" 
+        intervals [79]:
+            xmin = 198.55 
+            xmax = 199.31 
+            text = "igen." 
+        intervals [80]:
+            xmin = 199.31 
+            xmax = 209.6592631503074 
+            text = "" 
+        intervals [81]:
+            xmin = 209.6592631503074 
+            xmax = 210.91234548209695 
+            text = "a jobb széle? tehát" 
+        intervals [82]:
+            xmin = 210.91234548209695 
+            xmax = 212.10702181150302 
+            text = "" 
+        intervals [83]:
+            xmin = 212.10702181150302 
+            xmax = 214.2209952007174 
+            text = "úgy mint, aha, a sarka" 
+        intervals [84]:
+            xmin = 214.2209952007174 
+            xmax = 221.16 
+            text = "" 
+        intervals [85]:
+            xmin = 221.16 
+            xmax = 224.51999999999998 
+            text = "a szeméhez képest a sarka, az hol van ennek a képnek?" 
+        intervals [86]:
+            xmin = 224.51999999999998 
+            xmax = 226.97845322405726 
+            text = "" 
+        intervals [87]:
+            xmin = 226.97845322405726 
+            xmax = 227.59039288935617 
+            text = "igen?" 
+        intervals [88]:
+            xmin = 227.59039288935617 
+            xmax = 228.68 
+            text = "" 
+        intervals [89]:
+            xmin = 228.68 
+            xmax = 230.93 
+            text = "hú, hát ott nem sok hely van, a két szeme között." 
+        intervals [90]:
+            xmin = 230.93 
+            xmax = 233.3574606441428 
+            text = "" 
+        intervals [91]:
+            xmin = 233.3574606441428 
+            xmax = 233.83959492589346 
+            text = "<hum>" 
+        intervals [92]:
+            xmin = 233.83959492589346 
+            xmax = 237.65958192745632 
+            text = "" 
+        intervals [93]:
+            xmin = 237.65958192745632 
+            xmax = 238.1973470878705 
+            text = "<hum>" 
+        intervals [94]:
+            xmin = 238.1973470878705 
+            xmax = 242.72 
+            text = "" 
+        intervals [95]:
+            xmin = 242.72 
+            xmax = 243.95499999999998 
+            text = "hát <hes>" 
+        intervals [96]:
+            xmin = 243.95499999999998 
+            xmax = 245.57999999999998 
+            text = "ja, mondjuk hogy" 
+        intervals [97]:
+            xmin = 245.57999999999998 
+            xmax = 246.18 
+            text = "" 
+        intervals [98]:
+            xmin = 246.18 
+            xmax = 247.6 
+            text = "mondjuk, hogy le-- legyen" 
+        intervals [99]:
+            xmin = 247.6 
+            xmax = 249.28 
+            text = "" 
+        intervals [100]:
+            xmin = 249.28 
+            xmax = 250.99 
+            text = "de pont pont hozzáér ugye?" 
+        intervals [101]:
+            xmin = 250.99 
+            xmax = 252.99460399554005 
+            text = "" 
+        intervals [102]:
+            xmin = 252.99460399554005 
+            xmax = 253.53236915595423 
+            text = "<hum>" 
+        intervals [103]:
+            xmin = 253.53236915595423 
+            xmax = 259.37 
+            text = "" 
+        intervals [104]:
+            xmin = 259.37 
+            xmax = 261.26 
+            text = "jó, hát próbáljuk meg." 
+        intervals [105]:
+            xmin = 261.26 
+            xmax = 265.47446444239347 
+            text = "" 
+        intervals [106]:
+            xmin = 265.47446444239347 
+            xmax = 265.8824242192594 
+            text = "<hum>" 
+        intervals [107]:
+            xmin = 265.8824242192594 
+            xmax = 270.71000000000004 
+            text = "" 
+        intervals [108]:
+            xmin = 270.71000000000004 
+            xmax = 271.78999999999996 
+            text = "kilencvenhetet." 
+        intervals [109]:
+            xmin = 271.78999999999996 
+            xmax = 274.8198952410364 
+            text = "" 
+        intervals [110]:
+            xmin = 274.8198952410364 
+            xmax = 277.8425063150886 
+            text = "<laugh>" 
+        intervals [111]:
+            xmin = 277.8425063150886 
+            xmax = 278.34000000000003 
+            text = "" 
+        intervals [112]:
+            xmin = 278.34000000000003 
+            xmax = 279.91999999999996 
+            text = "a pénztáros és a könyvelő." 
+        intervals [113]:
+            xmin = 279.91999999999996 
+            xmax = 284.38 
+            text = "" 
+        intervals [114]:
+            xmin = 284.38 
+            xmax = 286.78 
+            text = "na most mi villog, Tubi, a pia, nem? a rum." 
+        intervals [115]:
+            xmin = 286.78 
+            xmax = 289.01 
+            text = "" 
+        intervals [116]:
+            xmin = 289.01 
+            xmax = 291.56 
+            text = "azt gondolom, a limonádéba nem öntjük, nem?" 
+        intervals [117]:
+            xmin = 291.56 
+            xmax = 294.69 
+            text = "" 
+        intervals [118]:
+            xmin = 294.69 
+            xmax = 295.78999999999996 
+            text = "az a majom, nem?" 
+        intervals [119]:
+            xmin = 295.78999999999996 
+            xmax = 296.75644824385984 
+            text = "" 
+        intervals [120]:
+            xmin = 296.75644824385984 
+            xmax = 297.294213404274 
+            text = "ja?" 
+        intervals [121]:
+            xmin = 297.294213404274 
+            xmax = 300.02998100323697 
+            text = "" 
+        intervals [122]:
+            xmin = 300.02998100323697 
+            xmax = 300.4280862356532 
+            text = "tényleg?" 
+        intervals [123]:
+            xmin = 300.4280862356532 
+            xmax = 301.98 
+            text = "" 
+        intervals [124]:
+            xmin = 301.98 
+            xmax = 303.26 
+            text = "lila m--, hát igen." 
+        intervals [125]:
+            xmin = 303.26 
+            xmax = 305.44 
+            text = "lila majom, és akkor pont rá" 
+        intervals [126]:
+            xmin = 305.44 
+            xmax = 305.6017579513622 
+            text = "" 
+        intervals [127]:
+            xmin = 305.6017579513622 
+            xmax = 306.04680498067046 
+            text = "igen." 
+        intervals [128]:
+            xmin = 306.04680498067046 
+            xmax = 308.69854353029905 
+            text = "" 
+        intervals [129]:
+            xmin = 308.69854353029905 
+            xmax = 309.14359055960733 
+            text = "igen." 
+        intervals [130]:
+            xmin = 309.14359055960733 
+            xmax = 313.2973628331514 
+            text = "" 
+        intervals [131]:
+            xmin = 313.2973628331514 
+            xmax = 314.00202062955617 
+            text = "aha." 
+        intervals [132]:
+            xmin = 314.00202062955617 
+            xmax = 314.8550274357304 
+            text = "" 
+        intervals [133]:
+            xmin = 314.8550274357304 
+            xmax = 315.54114160591405 
+            text = "jó." 
+        intervals [134]:
+            xmin = 315.54114160591405 
+            xmax = 335.28 
+            text = "" 
+        intervals [135]:
+            xmin = 335.28 
+            xmax = 338.63 
+            text = "<hum> tehát ugye nem nemcsak érintkezik, hanem egy kicsit rá is" 
+        intervals [136]:
+            xmin = 338.63 
+            xmax = 343.50381631378934 
+            text = "" 
+        intervals [137]:
+            xmin = 343.50381631378934 
+            xmax = 344.0230378479824 
+            text = "<hum>" 
+        intervals [138]:
+            xmin = 344.0230378479824 
+            xmax = 348.26 
+            text = "" 
+        intervals [139]:
+            xmin = 348.26 
+            xmax = 351.27 
+            text = "és a mal-- malomba nem megy bele egyáltalán a rum?" 
+        intervals [140]:
+            xmin = 351.27 
+            xmax = 352.56 
+            text = "" 
+        intervals [141]:
+            xmin = 352.56 
+            xmax = 354.29999999999995 
+            text = "jó. hát mondjuk, hogy így." 
+        intervals [142]:
+            xmin = 354.29999999999995 
+            xmax = 355.6684351148827 
+            text = "" 
+        intervals [143]:
+            xmin = 355.6684351148827 
+            xmax = 356.39163653750865 
+            text = "kész." 
+        intervals [144]:
+            xmin = 356.39163653750865 
+            xmax = 357.59000000000003 
+            text = "" 
+        intervals [145]:
+            xmin = 357.59000000000003 
+            xmax = 359.71000000000004 
+            text = "a <laugh>! na végre." 
+        intervals [146]:
+            xmin = 359.71000000000004 
+            xmax = 360.94 
+            text = "" 
+        intervals [147]:
+            xmin = 360.94 
+            xmax = 362.38 
+            text = "száz százalék." 
+        intervals [148]:
+            xmin = 362.38 
+            xmax = 363.83660805979383 
+            text = "" 
+        intervals [149]:
+            xmin = 363.83660805979383 
+            xmax = 364.43000409887156 
+            text = "aha." 
+        intervals [150]:
+            xmin = 364.43000409887156 
+            xmax = 371.66999999999996 
+            text = "" 
+        intervals [151]:
+            xmin = 371.66999999999996 
+            xmax = 372.78499999999997 
+            text = "<hes> ne mondd már." 
+        intervals [152]:
+            xmin = 372.78499999999997 
+            xmax = 373.935 
+            text = "<laugh>" 
+        intervals [153]:
+            xmin = 373.935 
+            xmax = 374.76 
+            text = "tényleg?" 
+        intervals [154]:
+            xmin = 374.76 
+            xmax = 377.1689184959903 
+            text = "" 
+        intervals [155]:
+            xmin = 377.1689184959903 
+            xmax = 378.0404689283857 
+            text = "és hova tegyem?" 
+        intervals [156]:
+            xmin = 378.0404689283857 
+            xmax = 381.61938878907324 
+            text = "" 
+        intervals [157]:
+            xmin = 381.61938878907324 
+            xmax = 382.0644358183815 
+            text = "igen." 
+        intervals [158]:
+            xmin = 382.0644358183815 
+            xmax = 382.7134627361228 
+            text = "" 
+        intervals [159]:
+            xmin = 382.7134627361228 
+            xmax = 383.36248965386403 
+            text = "igen." 
+        intervals [160]:
+            xmin = 383.36248965386403 
+            xmax = 384.78999999999996 
+            text = "" 
+        intervals [161]:
+            xmin = 384.78999999999996 
+            xmax = 385.84000000000003 
+            text = "jobbra, igen," 
+        intervals [162]:
+            xmin = 385.84000000000003 
+            xmax = 389.2964500446413 
+            text = "" 
+        intervals [163]:
+            xmin = 389.2964500446413 
+            xmax = 390.1494568508155 
+            text = "igen." 
+        intervals [164]:
+            xmin = 390.1494568508155 
+            xmax = 400.4220689605174 
+            text = "" 
+        intervals [165]:
+            xmin = 400.4220689605174 
+            xmax = 401.108183130701 
+            text = "ja, az alja?" 
+        intervals [166]:
+            xmin = 401.108183130701 
+            xmax = 406.96796901659354 
+            text = "" 
+        intervals [167]:
+            xmin = 406.96796901659354 
+            xmax = 407.5799086818924 
+            text = "<hum>" 
+        intervals [168]:
+            xmin = 407.5799086818924 
+            xmax = 409.24 
+            text = "" 
+        intervals [169]:
+            xmin = 409.24 
+            xmax = 412.13 
+            text = "tehát hogyha húznék egy vonalat a rum tetején," 
+        intervals [170]:
+            xmin = 412.13 
+            xmax = 413.5324126988908 
+            text = "" 
+        intervals [171]:
+            xmin = 413.5324126988908 
+            xmax = 414.49668126239214 
+            text = "picit lejjebb?" 
+        intervals [172]:
+            xmin = 414.49668126239214 
+            xmax = 419.21946568378223 
+            text = "" 
+        intervals [173]:
+            xmin = 419.21946568378223 
+            xmax = 419.77577447041756 
+            text = "<hum>" 
+        intervals [174]:
+            xmin = 419.77577447041756 
+            xmax = 420.24 
+            text = "" 
+        intervals [175]:
+            xmin = 420.24 
+            xmax = 421.49 
+            text = "hát mondjuk, hogy így." 
+        intervals [176]:
+            xmin = 421.49 
+            xmax = 425.53 
+            text = "" 
+        intervals [177]:
+            xmin = 425.53 
+            xmax = 426.70000000000005 
+            text = "na, legyen kész." 
+        intervals [178]:
+            xmin = 426.70000000000005 
+            xmax = 428.89923857123756 
+            text = "" 
+        intervals [179]:
+            xmin = 428.89923857123756 
+            xmax = 429.3999164792094 
+            text = "<hum>" 
+        intervals [180]:
+            xmin = 429.3999164792094 
+            xmax = 431.65999999999997 
+            text = "" 
+        intervals [181]:
+            xmin = 431.65999999999997 
+            xmax = 433.44 
+            text = "ezt a százat, ezt nehezen érjük el." 
+        intervals [182]:
+            xmin = 433.44 
+            xmax = 434.44 
+            text = "" 
+        intervals [183]:
+            xmin = 434.44 
+            xmax = 435.90999999999997 
+            text = "na, és akkor??" 
+        intervals [184]:
+            xmin = 435.90999999999997 
+            xmax = 436.78999999999996 
+            text = "" 
+        intervals [185]:
+            xmin = 436.78999999999996 
+            xmax = 437.65999999999997 
+            text = "most tovább, nem?" 
+        intervals [186]:
+            xmin = 437.65999999999997 
+            xmax = 438.38 
+            text = "" 
+        intervals [187]:
+            xmin = 438.38 
+            xmax = 440.07000000000005 
+            text = "most most én fogok mon-- magyarázni?" 
+        intervals [188]:
+            xmin = 440.07000000000005 
+            xmax = 442.15793131938045 
+            text = "" 
+        intervals [189]:
+            xmin = 442.15793131938045 
+            xmax = 442.88113274200646 
+            text = "ja." 
+        intervals [190]:
+            xmin = 442.88113274200646 
+            xmax = 443.6364375 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "NOI" 
+        xmin = 0 
+        xmax = 443.6364375 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.25 
+            text = "" 
+        intervals [2]:
+            xmin = 9.25 
+            xmax = 10.741418464099594 
+            text = "narancssárga az." 
+        intervals [3]:
+            xmin = 10.741418464099594 
+            xmax = 15.7 
+            text = "" 
+        intervals [4]:
+            xmin = 15.7 
+            xmax = 16.78 
+            text = "igen." 
+        intervals [5]:
+            xmin = 16.78 
+            xmax = 19.71517172119282 
+            text = "" 
+        intervals [6]:
+            xmin = 19.71517172119282 
+            xmax = 20.90933066734221 
+            text = "nem teve az." 
+        intervals [7]:
+            xmin = 20.90933066734221 
+            xmax = 25.965929077171406 
+            text = "" 
+        intervals [8]:
+            xmin = 25.965929077171406 
+            xmax = 27.110076640224428 
+            text = "igen, láma." 
+        intervals [9]:
+            xmin = 27.110076640224428 
+            xmax = 32.74488387249889 
+            text = "" 
+        intervals [10]:
+            xmin = 32.74488387249889 
+            xmax = 34.349238799703315 
+            text = "szerintem lehet <unint>" 
+        intervals [11]:
+            xmin = 34.349238799703315 
+            xmax = 36.3137843232658 
+            text = "" 
+        intervals [12]:
+            xmin = 36.3137843232658 
+            xmax = 39.241229807610196 
+            text = "jó, akkor <hes> továbbíthatjátok, és mehet." 
+        intervals [13]:
+            xmin = 39.241229807610196 
+            xmax = 443.6364375 
+            text = "" 
